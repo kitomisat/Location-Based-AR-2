@@ -1,0 +1,35 @@
+body{
+  margin: 0px; 
+  overflow: hidden;
+}
+  
+#gps_dialog{
+  text-align: center;
+  position: relative; 
+  top: -600px; 
+  left: 0px; 
+  width: 1000px; 
+  height: 150px;
+  opacity: 0.8;
+  padding: 0px;
+}
+
+#map_dialog{
+  text-align: center;
+  position: relative; 
+  top: 200px; 
+  left: 0px; 
+  width: 1000px; 
+  height: 500px;
+  opacity: 0.8;
+  padding: 0px;
+}
+
+label, button,input{
+  width: 10em;
+  height: 3em;
+}
+
+#map{
+  height: 450px;
+}
