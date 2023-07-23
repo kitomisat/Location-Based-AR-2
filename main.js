@@ -2,8 +2,8 @@
 tour_list = [
   {
     "name": "Station", // 星ヶ丘駅
-    "lat": ,
-    "lon": ,
+    "lat": 35.1597448407689,
+    "lon": 136.98730438459847,
     "distance": 0,
     "visible": false,
   },
@@ -16,8 +16,8 @@ tour_list = [
   },
   {
     "name": "Zoo", // 東山動植物園
-    "lat": 35.35179687566631, 
-    "lon": 137.10971206421712,
+    "lat": , 
+    "lon": ,
     "distance": 0,
     "visible": false,
   },
