@@ -9,8 +9,8 @@ tour_list = [
   },
   {
     "name": "Library", // 図書館
-    "lat": 35.3525338, 
-    "lon": 137.1106990, 
+    "lat": 35.351645784073376, 
+    "lon": 137.10976523739436, 
     "distance": 0,
     "visible": false,
   },
