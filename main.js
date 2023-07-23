@@ -2,15 +2,15 @@
 tour_list = [
   {
     "name": "Station", // 星ヶ丘駅
-    "lat": 35.35148796755935,
-    "lon": 137.10973858873814,
+    "lat": ,
+    "lon": ,
     "distance": 0,
     "visible": false,
   },
   {
     "name": "Library", // 図書館
-    "lat": 35.351645784073376, 
-    "lon": 137.10976523739436, 
+    "lat": , 
+    "lon": , 
     "distance": 0,
     "visible": false,
   },
@@ -23,8 +23,8 @@ tour_list = [
   },
   {
     "name": "Tech Land", // ヤマダ電機
-    "lat": 35.35175436222521, 
-    "lon": 137.11025045780343,
+    "lat": , 
+    "lon": ,
     "distance": 0,
     "visible": false,
   }, 
