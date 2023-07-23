@@ -2,8 +2,8 @@
 tour_list = [
   {
     "name": "Station", // 星ヶ丘駅
-    "lat": ,
-    "lon": ,
+    "lat": 35.35148796755935,
+    "lon": 137.10973858873814,
     "distance": 0,
     "visible": false,
   },
