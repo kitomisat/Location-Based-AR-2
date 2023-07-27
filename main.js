@@ -2,7 +2,7 @@
 tour_list = [
   {
     "name": "学校", // 星ヶ丘駅
-    "lat": 35.1597448407689,
+    "lat": ,
     "lon": 136.98730438459847,
     "distance": 0,
     "visible": false,
